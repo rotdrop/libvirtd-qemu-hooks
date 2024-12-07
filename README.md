@@ -1,0 +1,1 @@
+# libvirtd-qemu-hooks
